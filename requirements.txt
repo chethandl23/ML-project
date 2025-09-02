@@ -6,4 +6,6 @@ seaborn
 tensorflow
 keras
 dill
--e .
+xgboost
+catboost
+#-e .
